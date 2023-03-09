@@ -1,4 +1,5 @@
-# Sistemas-de-Vendas
+# Sistemas-de-Vendas/CLIMA
+
 ## Aplicação
   Esta aplicação tem como objetivo de aplicar conhecimentos desenvolvidos em estudos particulares,
   como base nestes conhecimentos vamos usar uma API externa de clima , para analisar vendas feitas com base nos dados climaticos.
@@ -65,6 +66,21 @@
       -- Media de vendas por temperatura em cada cidade
       -- Media de vendas por clima em cada cidade.
       
-##Telas:
+## Telas:
+  # Home registro de dados 
+  ![homeRegister](https://github.com/Ikaro-silva/Sistemas-de-Vendas/blob/main/img/homeRegister.jpeg)
+  
+  # Home consultas de dados
+  ![homeRegister](https://github.com/Ikaro-silva/Sistemas-de-Vendas/blob/main/img/homeConsult.jpeg)
+  
+  # Dados da pesquisa (CIDADE)
+  ![homeRegister](https://github.com/Ikaro-silva/Sistemas-de-Vendas/blob/main/img/consultCity.jpeg)
+  
+  # Dados da pesquisa (TEMPERATURA)
+  ![homeRegister](https://github.com/Ikaro-silva/Sistemas-de-Vendas/blob/main/img/consultTemperature.jpeg)
+  
+  
+# APARA DUVIDAS:
+  ## https://www.linkedin.com/in/ikaro-silva-71071b221
   
   
